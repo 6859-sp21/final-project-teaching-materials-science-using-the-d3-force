@@ -37,21 +37,22 @@ In addition to the full documentation found in the [module repository](https://g
 
 ### * Interactive Narrative
 The interactive narrative, deployed as an [Observable notebook](https://observablehq.com/@gvarnavi/teaching-materials-science-concepts-using-the-d3-force), uses the `d3-force-md` module to introduce a variety of Materials Science concepts such as:
+
 - Lattice dynamics  
 
-[<img alt="Lattice Dynamics" src="https://raw.githubusercontent.com/6859-sp21/final-project-teaching-materials-science-using-the-d3-force/master/img/lattice-dynamics.png" width="420" height="219">]
+<img alt="Lattice Dynamics" src="https://raw.githubusercontent.com/6859-sp21/final-project-teaching-materials-science-using-the-d3-force/master/img/lattice-dynamics.png" width="500">
 
 - Physical origin of surface energy
 
-[<img alt="Surface Energy" src="https://raw.githubusercontent.com/6859-sp21/final-project-teaching-materials-science-using-the-d3-force/master/img/surface_energy_slide_graphic.png" width="420" height="219">]
+<img alt="Surface Energy" src="https://raw.githubusercontent.com/6859-sp21/final-project-teaching-materials-science-using-the-d3-force/master/img/surface_energy_slide_graphic.png" width="500">
 
 - Dislocations during materials deformation
 
-[<img alt="Dislocations" src="https://raw.githubusercontent.com/6859-sp21/final-project-teaching-materials-science-using-the-d3-force/master/img/dislocations.png" width="420" height="219">]
+<img alt="Dislocations" src="https://raw.githubusercontent.com/6859-sp21/final-project-teaching-materials-science-using-the-d3-force/master/img/dislocations.png" width="500">
 
 - An interactive simulation playground
 
-[<img alt="Playground" src="https://raw.githubusercontent.com/6859-sp21/final-project-teaching-materials-science-using-the-d3-force/master/img/playground.png" width="420" height="219">]
+<img alt="Playground" src="https://raw.githubusercontent.com/6859-sp21/final-project-teaching-materials-science-using-the-d3-force/master/img/playground.png" width="500">
 
 ### * Project Video
 The 1-minute video teaser can be found [here](https://www.youtube.com/watch?v=LzqRPEFKq3o).
