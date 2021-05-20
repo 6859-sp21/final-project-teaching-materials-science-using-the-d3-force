@@ -60,7 +60,3 @@ The 1-minute video teaser can be found [here](https://www.youtube.com/watch?v=Lz
 ### * Project Paper
 The paper describing the project in more detail can be found [here](https://github.com/6859-sp21/final-project-teaching-materials-science-using-the-d3-force/blob/master/FinalPaper.pdf).
 
-## Project Process and Acknowledgments
-```diff
-!TO-DO
-```
